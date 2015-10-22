@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "name": "LinkanyElement",
     "title": "LinkanyElement jQuery plugin",
@@ -32,3 +33,6 @@
         "jquery": ">=1.9"
     }
 }
+=======
+
+>>>>>>> c885c1f3ede0d277d72d43e1c98dd686beea0b89
