@@ -6,7 +6,12 @@
 0.1.0
 
 <h2>Usage</h2>
-   
+    jQuery('span').LinkanyElement({
+
+          href: 'https://www.nvidia.com',
+          text: 'Click me'
+           
+     }); 
 
 
 <h2>Vendors</h2>
